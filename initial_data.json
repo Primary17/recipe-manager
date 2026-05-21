@@ -1,0 +1,22 @@
+[
+{
+    "model": "recipe.category",
+    "pk": 1,
+    "fields": {
+        "name": "Soups"
+    }
+},
+{
+    "model": "recipe.recipe",
+    "pk": 1,
+    "fields": {
+        "title": "Borscht",
+        "description": "Borscht is a hearty, vibrant Eastern European sour soup famous for its deep red color and rich flavor. Traditionally built on a savory meat or bone broth, it is packed with julienned beets, shredded cabbage, potatoes, carrots, and onions, and finished with fresh dill and sour cream.",
+        "instructions": "1. Prepare the Broth: In a large stockpot, bring the broth (and meat, if using) to a boil. Add the shredded cabbage and simmer for 15-20 minutes.\r\n\r\n2. Saute the Vegetables: In a large skillet, sauté the chopped onions and carrots in oil until soft. Remove or push to the side and sauté the grated beets with tomato paste, vinegar, and sugar for about 10 minutes.\r\n\r\n3. Combine: Add diced potatoes and the sautéed beet mixture to the soup pot. Simmer on medium-low heat for 20 minutes until all vegetables are tender.\r\n\r\n4. Season: Stir in the minced garlic, salt, pepper, and adjust the vinegar/sugar to taste. Remove from heat, cover, and let it rest for 15-30 minutes so the flavors can blend.\r\n\r\n5. Serve: Ladle into bowls, top generously with sour cream and fresh dill, and serve with crusty bread.",
+        "ingredients": "Broth: 8-10 cups of beef or chicken broth (or water with meat on the bone, like beef shanks or pork ribs).\r\n\r\nVegetables: \r\n - 3 medium beets (peeled and grated/julienned), \r\n - 1/2 head of cabbage (shredded),\r\n - 3-4 potatoes (cubed), \r\n - 2 carrots (grated), \r\n - 1 onion (chopped).\r\n\r\nFlavor & Color: \r\n - 2-3 tbsp tomato paste,\r\n - 1-2 tbsp vinegar or lemon juice (crucial to keep the beets red),\r\n - 1 tsp sugar,\r\n - 2-3 garlic cloves,\r\n - a bay leaf.\r\n\r\nGarnish & Serving: Sour cream, fresh dill, green onions, and dark rye bread.",
+        "created_at": "2026-05-21T11:20:12.411Z",
+        "updated_at": "2026-05-21T11:20:12.411Z",
+        "category": 1
+    }
+}
+]
